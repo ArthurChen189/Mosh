@@ -1,13 +1,11 @@
-package ArrayClass;
+package myArrays;
 
-import java.util.ArrayList;
-
-public class Array {
+public class myArrays {
     private  int[] array;
     int length;
     private int counter = 0;
 
-    public Array(int length){
+    public myArrays(int length){
         this.length = length;
         this.array = new int[length];
     }

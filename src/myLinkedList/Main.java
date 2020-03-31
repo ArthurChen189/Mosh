@@ -1,5 +1,7 @@
+package myLinkedList;
+
 import java.util.Arrays;
-import myLinkedList.myLinkedList;
+
 public class Main {
 
     public static void main(String[] args) {
