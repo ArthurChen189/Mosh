@@ -1,13 +1,13 @@
-package ArrayClass;
+package myLinkedList;
 
 import java.util.NoSuchElementException;
 
 public class myLinkedList {
-    public class Node{
+    private class Node{
         private int value;
         private Node next;
 
-        public Node(int value){
+        private Node(int value){
             this.value = value;
         }
     }

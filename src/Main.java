@@ -1,9 +1,5 @@
-import ArrayClass.Array;
-import ArrayClass.myLinkedList;
-
 import java.util.Arrays;
-import java.util.LinkedList;
-
+import myLinkedList.myLinkedList;
 public class Main {
 
     public static void main(String[] args) {
