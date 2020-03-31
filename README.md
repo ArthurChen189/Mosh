@@ -1,2 +1,2 @@
-# Data Structure & Algorithm Review
+# データ構造とアルゴリズムの復習
 <h2>オンラインウェブサイト：Moshとプログラミングしましょう</h2>
