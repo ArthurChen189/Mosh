@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01d8f56f-eb07-4fb3-8410-27e5145e500a" name="Default Changelist" comment="Created">
-      <change afterPath="$PROJECT_DIR$/src/myTrees/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myTrees/myTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="01d8f56f-eb07-4fb3-8410-27e5145e500a" name="Default Changelist" comment="Created" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,20 +23,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/myTrees/myTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="101" column="20" selection-start-line="101" selection-start-column="20" selection-end-line="101" selection-end-column="20" />
+            <state relative-caret-position="259">
+              <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
               <folding>
                 <element signature="class#Node#0;class#myTree#0" />
                 <element signature="method#insert#0;class#myTree#0" />
-                <element signature="e#1725#1726#0" expanded="true" />
-                <element signature="e#1759#1760#0" expanded="true" />
-                <element signature="e#2058#2059#0" expanded="true" />
+                <element signature="e#2054#2055#0" expanded="true" />
                 <element signature="e#2091#2092#0" expanded="true" />
-                <element signature="method#traverseInOrder#2;class#myTree#0" />
-                <element signature="e#2393#2394#0" expanded="true" />
-                <element signature="e#2430#2431#0" expanded="true" />
-                <element signature="e#2659#2660#0" expanded="true" />
-                <element signature="e#2689#2690#0" expanded="true" />
+                <element signature="e#2684#2685#0" expanded="true" />
+                <element signature="e#2719#2720#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,9 +79,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-198" />
-    <option name="y" value="168" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-458" />
+    <option name="y" value="332" />
     <option name="width" value="1936" />
     <option name="height" value="683" />
   </component>
@@ -102,6 +93,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,7 +122,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -246,6 +237,7 @@
       <workItem from="1585795819157" duration="49000" />
       <workItem from="1585797696069" duration="1821000" />
       <workItem from="1585919864929" duration="5643000" />
+      <workItem from="1586015515585" duration="125000" />
     </task>
     <task id="LOCAL-00001" summary="package tidied">
       <created>1585665740646</created>
@@ -272,12 +264,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51164000" />
+    <option name="totallyTimeSpent" value="51289000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-458" y="332" width="1936" height="683" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1444563" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14605543" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -551,20 +544,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/myTrees/myTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="101" column="20" selection-start-line="101" selection-start-column="20" selection-end-line="101" selection-end-column="20" />
+        <state relative-caret-position="259">
+          <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
           <folding>
             <element signature="class#Node#0;class#myTree#0" />
             <element signature="method#insert#0;class#myTree#0" />
-            <element signature="e#1725#1726#0" expanded="true" />
-            <element signature="e#1759#1760#0" expanded="true" />
-            <element signature="e#2058#2059#0" expanded="true" />
+            <element signature="e#2054#2055#0" expanded="true" />
             <element signature="e#2091#2092#0" expanded="true" />
-            <element signature="method#traverseInOrder#2;class#myTree#0" />
-            <element signature="e#2393#2394#0" expanded="true" />
-            <element signature="e#2430#2431#0" expanded="true" />
-            <element signature="e#2659#2660#0" expanded="true" />
-            <element signature="e#2689#2690#0" expanded="true" />
+            <element signature="e#2684#2685#0" expanded="true" />
+            <element signature="e#2719#2720#0" expanded="true" />
           </folding>
         </state>
       </provider>
