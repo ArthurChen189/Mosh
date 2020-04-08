@@ -21,7 +21,7 @@ public class myTree {
         }
         var traverser = root;
         var item = new Node(value);
-        while(true){ // TODO: 2020/4/1
+        while(true){
             if (value > traverser.value){
                 if (traverser.rightChild == null){
                     traverser.rightChild = item;
