@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01d8f56f-eb07-4fb3-8410-27e5145e500a" name="Default Changelist" comment="Created" />
+    <list default="true" id="01d8f56f-eb07-4fb3-8410-27e5145e500a" name="Default Changelist" comment="Done binary tree">
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mosh/myTrees/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mosh/myTrees/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mosh/myTrees/myTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mosh/myTrees/myTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mosh/myTrees/myTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mosh/myTrees/myTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myTrees/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myTrees/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myTrees/myTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myTrees/myTree.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,28 +18,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/myTrees/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/myTrees/myTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+            <state relative-caret-position="409">
+              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="class#Node#0;class#myTree#0" />
-                <element signature="method#insert#0;class#myTree#0" />
-                <element signature="e#2054#2055#0" expanded="true" />
-                <element signature="e#2091#2092#0" expanded="true" />
-                <element signature="e#2684#2685#0" expanded="true" />
-                <element signature="e#2719#2720#0" expanded="true" />
+                <element signature="method#getNodesAtKDistance#1;class#myTree#0" />
               </folding>
             </state>
           </provider>
@@ -55,7 +51,6 @@
         <option value="$PROJECT_DIR$/src/ArrayClass/myLinkedList.java" />
         <option value="$PROJECT_DIR$/src/myLinkedList/myLinkedList.java" />
         <option value="$PROJECT_DIR$/src/ArrayClass/Array.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/myLinkedList/Main.java" />
         <option value="$PROJECT_DIR$/src/myStacks/StringReverser.java" />
         <option value="$PROJECT_DIR$/src/myStacks/BalancedExpressions.java" />
@@ -74,15 +69,16 @@
         <option value="$PROJECT_DIR$/src/myHashTables/myHashTable.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/myHashTables/Main.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/myTrees/Main.java" />
         <option value="$PROJECT_DIR$/src/myTrees/myTree.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1775" />
-    <option name="y" value="313" />
-    <option name="width" value="1934" />
+    <option name="x" value="-543" />
+    <option name="y" value="375" />
+    <option name="width" value="1936" />
     <option name="height" value="683" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -93,6 +89,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -110,25 +107,18 @@
               <item name="Mosh" type="b2602c69:ProjectViewProjectNode" />
               <item name="Mosh" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="myLinkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mosh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mosh" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="myTrees" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585925988678" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586369564840" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -213,10 +203,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -238,6 +228,10 @@
       <workItem from="1585797696069" duration="1821000" />
       <workItem from="1585919864929" duration="5643000" />
       <workItem from="1586015515585" duration="125000" />
+      <workItem from="1586015768310" duration="1261000" />
+      <workItem from="1586058764499" duration="1137000" />
+      <workItem from="1586290310845" duration="14000" />
+      <workItem from="1586357552210" duration="8283000" />
     </task>
     <task id="LOCAL-00001" summary="package tidied">
       <created>1585665740646</created>
@@ -260,17 +254,24 @@
       <option name="project" value="LOCAL" />
       <updated>1585673865670</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated XML config">
+      <created>1586015832767</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586015832767</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51289000" />
+    <option name="totallyTimeSpent" value="61984000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-458" y="332" width="1936" height="683" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14605543" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15138593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -289,7 +290,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286334" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.3286334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -337,11 +338,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="package tidied" />
-    <option name="LAST_COMMIT_MESSAGE" value="package tidied" />
+    <MESSAGE value="Updated XML config" />
+    <MESSAGE value="Done binary tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done binary tree" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ArrayClass/myLinkedList.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -519,8 +521,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/myLinkedList/myLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        <state relative-caret-position="160">
+          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
           <folding>
             <element signature="method#addFirst#0;class#myLinkedList#0" />
             <element signature="method#indexOf#0;class#myLinkedList#0" />
@@ -535,24 +537,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/myTrees/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/myTrees/myTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+        <state relative-caret-position="409">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="class#Node#0;class#myTree#0" />
-            <element signature="method#insert#0;class#myTree#0" />
-            <element signature="e#2054#2055#0" expanded="true" />
-            <element signature="e#2091#2092#0" expanded="true" />
-            <element signature="e#2684#2685#0" expanded="true" />
-            <element signature="e#2719#2720#0" expanded="true" />
+            <element signature="method#getNodesAtKDistance#1;class#myTree#0" />
           </folding>
         </state>
       </provider>
